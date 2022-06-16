@@ -3,3 +3,19 @@
     padding: 0;
     font-family: sans-serif;
 }
+
+.container-fluid{
+    background-color: beige;
+}
+
+.lead{
+    font-size: 2rem;
+}
+
+/* .form-control{
+    font-size: 2rem;
+} */
+
+.colorRojo{
+    background-color: red;
+}
